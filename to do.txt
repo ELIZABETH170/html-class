@@ -1,0 +1,8 @@
+main content:
+Poner un encabezado en el (main content; acerca de mi)
+agregar tres sub-encabezados cada uno con un parrafo.
+(ejemplo: Intereses, trabajos)
+
+Side Content:
+agregar enlaces, dos mas y ponerle el mismo efecto o parecido al estilo de barra de navegacion
+titulo, darle estilo 
